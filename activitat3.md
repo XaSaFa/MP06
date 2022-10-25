@@ -121,11 +121,11 @@ Fareu un programa que crearà una pàgina web amb els últims n capítols de tot
 
 Aquesta web mostrarà informació rellevant de cada podcast:
 
-- Nom del Creador del podcast amb link a la seva web <title> i <link>.
-- Logo del podcast <itunes:image>.
+- Nom del Creador del podcast amb link a la seva web ```<title>``` i ```<link>```.
+- Logo del podcast ```<itunes:image>```.
 
-- Nom de l'episodi <title> amb link a la web del capítol <guid> o <link>.
-- Duració <itunes:duration>.
-- Portada de l'episodi <itunes:image>.
-- Descripció <description> o <itunes:summary>.
-- Opció de descarregar el fitxer del podcast <enclosure url>.
+- Nom de l'episodi ```<title>``` amb link a la web del capítol ```<guid>``` o ```<link>```.
+- Duració ```<itunes:duration>```.
+- Portada de l'episodi ```<itunes:image>```.
+- Descripció ```<description>``` o ```<itunes:summary>```.
+- Opció de descarregar el fitxer del podcast ```<enclosure url>```.
