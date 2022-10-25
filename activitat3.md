@@ -99,7 +99,7 @@ Aquesta pràctica es divideix en dues parts:
 
 En aquesta part creareu un programa que simplement ens deixa editar un fitxer anomenat feeds.txt.
 
-En aquest fitxer guardarem a cada línia un feed d'un podcast que ens agradi:
+En aquest fitxer guardarem a cada línia la URL d'un feed d'un podcast que ens agradi:
 
 Si no sabeu per on començar busqueu els feeds de:
 
