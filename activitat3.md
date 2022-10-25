@@ -129,3 +129,6 @@ Aquesta web mostrarà informació rellevant de cada podcast:
 - Portada de l'episodi ```<itunes:image>```.
 - Descripció ```<description>``` o ```<itunes:summary>```.
 - Opció de descarregar el fitxer del podcast ```<enclosure url>```.
+
+## Material:
+- [Tutorial classe a Python](https://dungeonofbits.com/clases-en-python.html).
