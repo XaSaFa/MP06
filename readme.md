@@ -1,4 +1,5 @@
 # Accés a dades
+
 ## UF1 - Persistència en fitxers.
 
 - [Enunciat activitat 1](activitat0.md)
@@ -6,7 +7,12 @@
 - [Enunciat activitat 3](activitat2.md)
 - [Enunciat activitat 4](activitat3.md)
 
+### Guies: 
+
+- [Classe a Python](https://dungeonofbits.com/clases-en-python.html)
+- [Ús de fitxers a Python](https://dungeonofbits.com/uso-de-ficheros-con-python.html)
 - [Serialització d'objectes a fitxer des de Python](https://dungeonofbits.com/guardar-y-recuperar-objetos-desde-fichero-con-python.html)
+- [XML a Python](https://dungeonofbits.com/manipular-ficheros-xml-con-python.html)
 
 ## Documentant el codi a Python:
 
