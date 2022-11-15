@@ -147,3 +147,13 @@ for child in root.iter("{http://www.itunes.com/dtds/podcast-1.0.dtd}image"):
 for child in root.iter("{http://www.itunes.com/dtds/podcast-1.0.dtd}duration"):
     print(child.text)
 ```
+
+## Com mostrar el valor d'un atribut determinat:
+
+Per mostrar el valor del atribut href:
+
+```
+for child3 in child2:        
+  print(child3.attrib['href'])
+```
+
