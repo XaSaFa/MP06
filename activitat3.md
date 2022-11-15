@@ -132,3 +132,18 @@ Aquesta web mostrarà informació rellevant de cada podcast:
 
 ## Material:
 - [Tutorial classe a Python](https://dungeonofbits.com/clases-en-python.html).
+
+## Com extreure dades dels tags de iTunes:
+
+```
+import xml.etree.ElementTree as ET
+
+tree = ET.parse("feed.xml")
+root = tree.getroot()
+
+for child in root.iter("{http://www.itunes.com/dtds/podcast-1.0.dtd}image"):
+    print(child.attrib)
+
+for child in root.iter("{http://www.itunes.com/dtds/podcast-1.0.dtd}duration"):
+    print(child.text)
+```
