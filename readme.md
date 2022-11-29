@@ -13,15 +13,23 @@
 
 - [Prova UF1](prova1.md)
 
-### Guies: 
+### Recursos: 
 
 - [Classes a Python](https://dungeonofbits.com/clases-en-python.html)
 - [Ús de fitxers a Python](https://dungeonofbits.com/uso-de-ficheros-con-python.html)
 - [Serialització d'objectes a fitxer des de Python](https://dungeonofbits.com/guardar-y-recuperar-objetos-desde-fichero-con-python.html)
 - [XML a Python](https://dungeonofbits.com/manipular-ficheros-xml-con-python.html)
 
+## UF2 - Persistència en fitxers.
+
+### Recursos: 
+
+- [Connectar MariaDB amb Python](https://dungeonofbits.com/uso-de-mariadb-desde-python.html)
+
+### Activitats:
+
+- [Connexió de la bbdd](mariadb1.md)
+
 ## Documentant el codi a Python:
 
 - [Documenting Python Code](https://realpython.com/documenting-python-code/#basics-of-commenting-code)
-
-
