@@ -20,7 +20,7 @@
 - [Serialització d'objectes a fitxer des de Python](https://dungeonofbits.com/guardar-y-recuperar-objetos-desde-fichero-con-python.html)
 - [XML a Python](https://dungeonofbits.com/manipular-ficheros-xml-con-python.html)
 
-## UF2 - Persistència en fitxers.
+## UF2 - persistència en BDR-BDOR-BDOO.
 
 ### Recursos: 
 
