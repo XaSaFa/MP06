@@ -1,6 +1,6 @@
 Extreieu la informació dels jugadors.
 
-'''
+```
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -50,4 +50,4 @@ def carregarXML():
 descarregaWeb()
 llegirFitxer()
 carregarXML()
-'''
+```
