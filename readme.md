@@ -29,6 +29,7 @@
 ### Activitats:
 
 - [Connexió de la bbdd](mariadb1.md)
+- [Importar plantilles de jugadors](https://github.com/XaSaFa/MP06/blob/main/importarPlantilla.md)
 
 ## Documentant el codi a Python:
 
